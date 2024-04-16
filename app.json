@@ -1,7 +1,7 @@
 {
-  "name": "Nino Nakano",
-  "description": "Simple WhatsApp Bot Multi Device",
-  "repository": "https://github.com/NakanoTeam/Ai-Hoshino",
+  "name": "SakuraBot-MD",
+  "description": "Bot WhatsApp",
+  "repository": "https://github.com/diegojadibot/SakuraBot-MD",
   "logo": "https://tinyurl.com/2y223gks",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"]
 }
