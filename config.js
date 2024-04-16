@@ -10,17 +10,11 @@ import moment from 'moment-timezone'
 //⊱ ━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━ ⊰  
 
 global.owner = [
-  ['51978291185'],
-  ['51944114076'],
-  ['51982519053'],
-  ['51978291185'],
-  ['51966938370'],
-  ['51978291185'],
-  ['51978291185'],
-  ['51978291185'],
-  ['51978291185']
-
-]
+['573012482597'], //👑 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 ⚡️
+['5214531287294'], //𝚉𝙰𝙼 𝙾𝚆𝙽𝙴𝚁 🍧
+['447700168473'],
+['5492266613038'],
+['51935499065']]
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
@@ -29,18 +23,18 @@ global.prems = []
    
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
-global.packname = ``
-global.author = "const Sticker = () => {\n   return {\n      namebot: `Nino Nakano - MD`,\n      author: `おYᴏsᴍᴇʀ.ᴅɢ`\n   }\n}"
-global.wm = 'Nino Nakano - MD'
-global.igfg = 'Nino Bot - MD'
+global.packname = `𝙎𝙖𝙠𝙪𝙧𝙖𝘽𝙤𝙩-𝙈𝘿 🧿💖`
+global.author = "𝐃𝐢𝐞𝐠𝐨 𝐎𝐟𝐜"
+global.wm = '𝙱𝚢: 𝚂𝚊𝚔𝚞𝚛𝚊𝙱𝚘𝚝-𝙼𝙳'
+global.igfg = 'Bʏ: Sᴀᴋᴜʀᴀ'
 global.wait = '🐢 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛᴀ... ฅ^•ﻌ•^ฅ*'
-global.botname = 'Nino Nakano - MD'
-global.gcname = 'Nino Nakano - MD'
-global.namebot = 'Nino Nakano - MD'
-global.name = 'Nino Bot - MD'
+global.botname = '𝗦𝗮𝗸𝘂𝗿𝗮𝗕𝗼𝘁'
+global.gcname = '𝘚𝘢𝘬𝘶𝘳𝘢𝘉𝘰𝘵-𝘔𝘋'
+global.namebot = '𝖲𝖺𝗄𝗎𝗋𝖺 - 𝖡𝗈𝗍 - 𝖬𝖣'
+global.name = 'Sakura - Bot'
 global.error = '*Ocurrió un Error*'
-global.adsticker = `Stickers By Nino Bot - MD` 
-global.textbot = `Pᴏᴡᴇʀᴇᴅ Bʏ Yᴏsᴍᴇʀ.ᴅɢ`
+global.adsticker = `𝗕𝘆: 𝗦𝗮𝗸𝘂𝗿𝗮 & 𝗗𝗶𝗲𝗴𝗼` 
+global.textbot = `Pᴏᴡᴇʀᴇᴅ Bʏ Dɪᴇɢᴏ`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
