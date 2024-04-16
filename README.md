@@ -1,4 +1,4 @@
-> 🚩🧿Versión Del Bot: 
+> 🚩🧿Versión Del Bot: 1.0.2
 
 ### Sakura : Bot - MD 🌸
 <p align="center">
@@ -63,7 +63,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd SakuraBot-MD
-> rm -rf 
+> rm -rf sessions
 > npm start
 ```
 
