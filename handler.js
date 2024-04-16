@@ -542,8 +542,8 @@ for (let cs of callUpdate) {
 if (cs.isGroup == false) {
 if (cs.status == "offer") {
 //let callmsg = await this.reply(nk.from, `Hola *@${cs.from.split('@')[0]}*, Las ${cs.isVideo ? 'videollamadas' : 'llamadas'} están prohibidas, seras bloqueado`, false, { mentions: [cs.from] })
-//let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;おDanịel.xyz⁩;;\nFN:おDanịel.xyz⁩\nORG:おDanịel.xyz⁩\nTITLE:\nitem1.TEL;waid=50662333781:50662333781\nitem1.X-ABLabel:おDanịel.xyz⁩\nX-WA-BIZ-DESCRIPTION:\nX-WA-BIZ-NAME:おDanịel.xyz⁩\nEND:VCARD`
-//await this.sendMessage(cs.from, { contacts: { displayName: 'おDanịel.xyz⁩', contacts: [{ vcard }] }}, {quoted: callmsg})
+//let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:;Diego 💋;;\nFN:Diego 💋\nORG:Diego 💋\nTITLE:\nitem1.TEL;waid=573012482597:573012482597\nitem1.X-ABLabel:Diego 💋\nX-WA-BIZ-DESCRIPTION:\nX-WA-BIZ-NAME:Diego 💋\nEND:VCARD`
+//await this.sendMessage(cs.from, { contacts: { displayName: 'Diego 💋', contacts: [{ vcard }] }}, {quoted: callmsg})
 //await this.updateBlockStatus(cs.from, 'block')
 }}}
 }
