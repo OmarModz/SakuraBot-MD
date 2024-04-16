@@ -1,7 +1,7 @@
 { 
-    "name": "Nino Nakano",
-    "version": "3.0.0",
-    "description": "Simple WhatsApp Bot Multi Device",
+    "name": "SakuraBot-MD",
+    "version": "1.0.2",
+    "description": "Bot WhatsApp",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -23,16 +23,16 @@
         "multi-device",
         "baileys-md"
     ],
-    "homepage": "https://github.com/NakanoTeam/Ai-Hoshino",
+    "homepage": "https://github.com/diegojadibot/SakuraBot-MD",
     "author": {
-        "name": "おYᴏsᴍᴇʀ.ᴅɢ"
+        "name": "diegpjadibot"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/NakanoTeam/Ai-Hoshino.git"
+        "url": "git+https://github.com/diegojadibot/SakuraBot-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/NakanoTeam/Ai-Hoshino/issues"
+        "url": "https://github.com/diegojadibot/SakuraBot-MD/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
